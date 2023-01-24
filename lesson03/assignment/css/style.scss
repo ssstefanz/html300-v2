@@ -9,12 +9,12 @@
 // general style rules for unordered list and headlines
 h1 {
     color: $dark-gray;
-    font-size: 1.5em;
+    font-size: 1.5rem;
 }
 
 h2 {
     color: $gray;
-    font-size: 1em;
+    font-size: 1rem;
     font-weight: 100;
     font-style: italic;
 }
@@ -22,14 +22,14 @@ h2 {
 ul {
     padding-left: 0;
     list-style-type: none;
-    line-height: 2.5em;
-    font-size: .8em;
+    line-height: 2.5rem;
+    font-size: .8rem;
     color: $gray;
 
     span {
         color: $dark-gray;
         font-weight: 600;
-        font-size: 1.1em;
+        font-size: 1.1rem;
     }
 }
 
